@@ -1,0 +1,6 @@
+[package]
+name = "network_monitor"
+version = "0.1.0"
+authors = ["Sam Jeston <sam.jeston@gmail.com>"]
+
+[dependencies]
